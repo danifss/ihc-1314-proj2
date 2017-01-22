@@ -1,0 +1,7 @@
+Login como administrador:
+	Username: admin
+	Password: admin
+
+Login como utilizador:
+	Username: ant
+	Password: ant

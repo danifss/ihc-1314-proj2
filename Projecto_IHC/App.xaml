@@ -1,0 +1,43 @@
+﻿<Application x:Class="Projecto_IHC.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="login.xaml">
+	<Application.Resources>
+
+		<!-- Label style -->
+		<Style x:Key="labelStyle" TargetType="{x:Type Label}">
+			<Setter Property="VerticalAlignment" Value="Top" />
+			<Setter Property="HorizontalAlignment" Value="Left" />
+			<Setter Property="Foreground" Value="#FF494949" />
+		</Style>
+
+		<!-- Button style -->
+		<Style x:Key="buttonStyle" TargetType="{x:Type Button}">
+			<Setter Property="Foreground" Value="#FF5C5C5C" />
+			<Setter Property="HorizontalAlignment" Value="Right" />
+			<Setter Property="VerticalAlignment" Value="Top" />
+			<Setter Property="BorderBrush" Value="{x:Null}" />
+		</Style>
+
+		<!-- Button style1 -->
+		<Style x:Key="buttonStyle_bold" TargetType="{x:Type Button}">
+			<Setter Property="Foreground" Value="#FF5C5C5C" />
+			<Setter Property="HorizontalAlignment" Value="Right" />
+			<Setter Property="VerticalAlignment" Value="Top" />
+			<Setter Property="FontWeight" Value="Bold"/>
+      <Setter Property="FontSize" Value="14"/>
+      <Setter Property="BorderBrush" Value="{x:Null}" />
+		</Style>
+
+		<!-- Label style aviso -->
+		<Style x:Key="labelStyle_aviso" TargetType="{x:Type Label}">
+			<Setter Property="VerticalAlignment" Value="Top" />
+			<Setter Property="HorizontalAlignment" Value="Left" />
+			<Setter Property="FontWeight" Value="Bold"/>
+			<Setter Property="FontSize" Value="14"/>
+			<Setter Property="BorderBrush" Value="{x:Null}" />
+			<Setter Property="Foreground" Value="DarkRed"/>
+		</Style>
+
+	</Application.Resources>
+</Application>

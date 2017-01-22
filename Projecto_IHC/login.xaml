@@ -1,0 +1,39 @@
+﻿<Window x:Class="Projecto_IHC.login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Window1" Height="300" Width="400" WindowStyle="None" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" >
+
+    <Grid>
+
+        <Image HorizontalAlignment="Left" Height="75" Opacity="0.23" VerticalAlignment="Top" Width="164" Source="Imagens/logotipo.png" Margin="274,217,-46,0"/>
+
+        <Rectangle Fill="#FF43A0BE" HorizontalAlignment="Right" Height="110" Margin="0,91,242,0" VerticalAlignment="Top" Width="110"/>
+
+        <Image Name="func_imagem" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,87,249,0" Height="100" Width="100" Source="Imagens/func.png" Visibility="Hidden"/>
+
+        <Image Name="Admin_imagem" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,99,249,0" Height="100" Width="100" Source="Imagens/admin.png"/>
+
+        <TextBox x:Name="textbox_username" HorizontalAlignment="Left" Height="23" Margin="159,120,0,0" TextWrapping="Wrap" Text="Username" VerticalAlignment="Top" Width="180" BorderBrush="{x:Null}" Background="#FFDDDDDD" GotFocus="textbox_username_GotFocus"/>
+
+        <PasswordBox x:Name="password" Height="23" HorizontalAlignment="Left" Margin="159,148,0,0" VerticalAlignment="Top" Width="180" BorderBrush="{x:Null}" Background="#FFDDDDDD" Password="aaaaaaaa" GotFocus="password_GotFocus" KeyDown="password_KeyDown"/>
+
+        <Button Name="login_button" Content="Login" HorizontalAlignment="Left" Height="23" Margin="248,176,0,0" VerticalAlignment="Top" Width="91" BorderBrush="{x:Null}" IsEnabled="False" Click="Button_Click"/>
+
+        <Button Content="Cancelar" HorizontalAlignment="Left" Height="23" Margin="159,176,0,0" VerticalAlignment="Top" Width="84" BorderBrush="{x:Null}" Click="Button_Click_1"/>
+
+        <ComboBox x:Name="combobox_login" HorizontalAlignment="Left" Margin="159,92,0,0" VerticalAlignment="Top" Width="180" Height="23" BorderBrush="{x:Null}" Foreground="Black" Background="Black" SelectionChanged="combobox_login_SelectionChanged">
+
+            <ComboBoxItem Content="Admnistrador"/>
+
+            <ComboBoxItem Content="Funcionário" IsSelected="True"/>
+
+        </ComboBox>
+
+        <Label Name="aviso_login" Content="Login incorreto!" HorizontalAlignment="Left" Margin="159,204,0,0" VerticalAlignment="Top" Foreground="Red" Visibility="Hidden" />
+
+
+
+    </Grid>
+
+</Window>
+

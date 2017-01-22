@@ -1,0 +1,32 @@
+C:\Users\silva\Desktop\Projecto_IHC_Daniel51802_Diogo63822\Projecto_IHC\bin\Debug\Projecto_IHC.exe.config
+C:\Users\silva\Desktop\Projecto_IHC_Daniel51802_Diogo63822\Projecto_IHC\bin\Debug\Projecto_IHC.exe
+C:\Users\silva\Desktop\Projecto_IHC_Daniel51802_Diogo63822\Projecto_IHC\bin\Debug\Projecto_IHC.pdb
+C:\Users\silva\Desktop\Projecto_IHC_Daniel51802_Diogo63822\Projecto_IHC\obj\Debug\Projecto_IHC.csprojResolveAssemblyReference.cache
+C:\Users\silva\Desktop\Projecto_IHC_Daniel51802_Diogo63822\Projecto_IHC\obj\Debug\login.baml
+C:\Users\silva\Desktop\Projecto_IHC_Daniel51802_Diogo63822\Projecto_IHC\obj\Debug\MainWindow.baml
+C:\Users\silva\Desktop\Projecto_IHC_Daniel51802_Diogo63822\Projecto_IHC\obj\Debug\App.baml
+C:\Users\silva\Desktop\Projecto_IHC_Daniel51802_Diogo63822\Projecto_IHC\obj\Debug\login.g.cs
+C:\Users\silva\Desktop\Projecto_IHC_Daniel51802_Diogo63822\Projecto_IHC\obj\Debug\MainWindow.g.cs
+C:\Users\silva\Desktop\Projecto_IHC_Daniel51802_Diogo63822\Projecto_IHC\obj\Debug\App.g.cs
+C:\Users\silva\Desktop\Projecto_IHC_Daniel51802_Diogo63822\Projecto_IHC\obj\Debug\Projecto_IHC_MarkupCompile.cache
+C:\Users\silva\Desktop\Projecto_IHC_Daniel51802_Diogo63822\Projecto_IHC\obj\Debug\Projecto_IHC.g.resources
+C:\Users\silva\Desktop\Projecto_IHC_Daniel51802_Diogo63822\Projecto_IHC\obj\Debug\Projecto_IHC.Properties.Resources.resources
+C:\Users\silva\Desktop\Projecto_IHC_Daniel51802_Diogo63822\Projecto_IHC\obj\Debug\Projecto_IHC.csproj.GenerateResource.Cache
+C:\Users\silva\Desktop\Projecto_IHC_Daniel51802_Diogo63822\Projecto_IHC\obj\Debug\Projecto_IHC.exe
+C:\Users\silva\Desktop\Projecto_IHC_Daniel51802_Diogo63822\Projecto_IHC\obj\Debug\Projecto_IHC.pdb
+D:\Dropbox\IHC - Projeto\Projecto_IHC\Projecto_IHC\bin\Debug\Projecto_IHC.exe.config
+D:\Dropbox\IHC - Projeto\Projecto_IHC\Projecto_IHC\obj\Debug\Projecto_IHC.exe
+D:\Dropbox\IHC - Projeto\Projecto_IHC\Projecto_IHC\obj\Debug\Projecto_IHC.pdb
+D:\Dropbox\IHC - Projeto\Projecto_IHC\Projecto_IHC\bin\Debug\Projecto_IHC.exe
+D:\Dropbox\IHC - Projeto\Projecto_IHC\Projecto_IHC\bin\Debug\Projecto_IHC.pdb
+D:\Dropbox\IHC - Projeto\Projecto_IHC\Projecto_IHC\obj\Debug\Projecto_IHC.csprojResolveAssemblyReference.cache
+D:\Dropbox\IHC - Projeto\Projecto_IHC\Projecto_IHC\obj\Debug\login.baml
+D:\Dropbox\IHC - Projeto\Projecto_IHC\Projecto_IHC\obj\Debug\MainWindow.baml
+D:\Dropbox\IHC - Projeto\Projecto_IHC\Projecto_IHC\obj\Debug\App.baml
+D:\Dropbox\IHC - Projeto\Projecto_IHC\Projecto_IHC\obj\Debug\login.g.cs
+D:\Dropbox\IHC - Projeto\Projecto_IHC\Projecto_IHC\obj\Debug\MainWindow.g.cs
+D:\Dropbox\IHC - Projeto\Projecto_IHC\Projecto_IHC\obj\Debug\App.g.cs
+D:\Dropbox\IHC - Projeto\Projecto_IHC\Projecto_IHC\obj\Debug\Projecto_IHC_MarkupCompile.cache
+D:\Dropbox\IHC - Projeto\Projecto_IHC\Projecto_IHC\obj\Debug\Projecto_IHC.g.resources
+D:\Dropbox\IHC - Projeto\Projecto_IHC\Projecto_IHC\obj\Debug\Projecto_IHC.Properties.Resources.resources
+D:\Dropbox\IHC - Projeto\Projecto_IHC\Projecto_IHC\obj\Debug\Projecto_IHC.csproj.GenerateResource.Cache
